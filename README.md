@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI / IP-94</code>
-<code>⚪ Community: Gforces</code>
+<code>⚪ Community: Metarhia, Gforces</code>
 <code>👷 Speciality: Software engineer / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
