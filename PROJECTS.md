@@ -1,12 +1,13 @@
 # List of projects
 
 ## Apps
-* [Book app](https://github.com/lizzochek/book-app-vue)
-* [Star wars database](https://github.com/lizzochek/star-wars-db)
-* [Todo app](https://github.com/lizzochek/todo-app)
-* [Chat app](https://github.com/lizzochek/chat-app)
-* [Interactive math book](https://github.com/lizzochek/dm_tutorial)
-* [Btc rate checker](https://github.com/lizzochek/btc-rate-checker)
+* [Book app](https://github.com/lizzochek/book-app-vue) (Vue)
+* [Todo app](https://github.com/lizzochek/vuetify-todo) (vuetify)
+* [Star wars database](https://github.com/lizzochek/star-wars-db) (React)
+* [Todo app](https://github.com/lizzochek/todo-app) (JS)
+* [Chat app](https://github.com/lizzochek/chat-app) (JS)
+* [Interactive math book](https://github.com/lizzochek/dm_tutorial) (JS, node.js)
+* [Btc rate checker](https://github.com/lizzochek/btc-rate-checker) (JS)
 
 ## Algoritms
 * [Math algoritms](https://github.com/lizzochek/math_methods)
