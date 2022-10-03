@@ -6,6 +6,7 @@
 * [Star wars database](https://github.com/lizzochek/star-wars-db) (React)
 * [Todo app](https://github.com/lizzochek/todo-app) (JS)
 * [Chat app](https://github.com/lizzochek/chat-app) (JS)
+* [Authentication app](https://github.com/lizzochek/authorization-app) (Vue, node.js)
 * [Interactive math book](https://github.com/lizzochek/dm_tutorial) (JS, node.js)
 * [Btc rate checker](https://github.com/lizzochek/btc-rate-checker) (JS)
 
