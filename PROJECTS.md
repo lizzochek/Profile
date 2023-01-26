@@ -19,3 +19,4 @@
 * [JS course](https://github.com/lizzochek/js_course)
 * [node.js course](https://github.com/lizzochek/nodejs_course)
 * [Vue course](https://github.com/lizzochek/nodejs_course)
+* [Reactive programming](https://github.com/lizzochek/rxjs-course)
