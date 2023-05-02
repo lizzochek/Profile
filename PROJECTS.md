@@ -1,7 +1,7 @@
 # List of projects
 
 ## Apps
-* [Learnoree] (https://github.com/lizzochek/learnoree) (education assistance system Vue, node.js, MySQL)
+* [Learnoree](https://github.com/lizzochek/learnoree) (education assistance system Vue, node.js, MySQL)
 * [Book app](https://github.com/lizzochek/book-app-vue) (Vue)
 * [Todo app](https://github.com/lizzochek/vuetify-todo) (vuetify)
 * [Star wars database](https://github.com/lizzochek/star-wars-db) (React)
