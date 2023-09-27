@@ -1,5 +1,4 @@
 <code>🎓 Student: KPI / IM-31mp </code>
-<code>⚪ Community: ATG, Gforces</code>
 <code>👷 Speciality: Software engineer / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
